@@ -2,6 +2,8 @@ package com.driver;
 
 import io.swagger.models.auth.In;
 
+import io.swagger.models.auth.In;
+
 public class Order {
 
     private String id;
